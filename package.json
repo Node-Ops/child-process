@@ -1,0 +1,16 @@
+{
+  "name": "child-process",
+  "version": "0.0.0",
+  "description": "A child process wrapper with sugar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "child_process",
+    "spawn",
+    "exec"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC"
+}
